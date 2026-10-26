@@ -1,0 +1,34 @@
+{
+  "name": "صالون ليلى كوين الملكي",
+  "short_name": "ليلى كوين",
+  "description": "منصة صالون ليلى كوين للحجز وخدمات التجميل والعناية.",
+  "start_url": "https://laylaqweensalon.blogspot.com/",
+  "scope": "https://laylaqweensalon.blogspot.com/",
+  "id": "https://laylaqweensalon.blogspot.com/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FAF8F6",
+  "theme_color": "#C25975",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://layla-qween-salon.web.app/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://layla-qween-salon.web.app/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://layla-qween-salon.web.app/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
