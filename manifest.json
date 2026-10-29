@@ -4,7 +4,7 @@
   "description": "منصة صالون ليلى كوين للحجز وخدمات التجميل والعناية.",
   "start_url": "https://laylaqweensalon.blogspot.com/",
   "scope": "https://laylaqweensalon.blogspot.com/",
-  "id": "https://laylaqweensalon.blogspot.com/",
+  "id": "https://laylaqweensalon.blogspot.com/?v=2",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#FAF8F6",
@@ -13,19 +13,19 @@
   "dir": "rtl",
   "icons": [
     {
-      "src": "https://layla-qween-salon.web.app/pwa-192x192.png",
+      "src": "https://layla-qween-salon.web.app/customer-pwa-v2-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://layla-qween-salon.web.app/pwa-512x512.png",
+      "src": "https://layla-qween-salon.web.app/customer-pwa-v2-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://layla-qween-salon.web.app/pwa-maskable-512x512.png",
+      "src": "https://layla-qween-salon.web.app/customer-pwa-v2-maskable-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
